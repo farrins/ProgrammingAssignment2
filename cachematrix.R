@@ -43,4 +43,5 @@ cacheSolve <- function(x, ...) {
 
 }
 
+## Code appears to be fully functional now
 
